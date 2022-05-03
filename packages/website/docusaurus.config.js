@@ -9,8 +9,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     title: 'DocSearch by Algolia',
     tagline:
       'The best search experience for docs, integrated in minutes, for free.',
-    url: 'https://docsearch.algolia.com',
-    baseUrl: '/',
+    url: 'https://abhilashjp.github.io',
+    baseUrl: '/docsearch/',
     favicon: 'img/favicon.ico',
     organizationName: 'Algolia',
     projectName: 'DocSearch',
